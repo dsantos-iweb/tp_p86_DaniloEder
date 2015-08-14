@@ -1,0 +1,24 @@
+#div_global{
+    width: 80%;
+}
+
+#home_bg{
+   /* width: auto;*/
+    height: 50%;
+
+}
+
+#menu{
+    background-color: #97BC30;
+    /*text-align: center;*/
+    /*width: auto;*/
+    height: 50%;
+
+}
+
+#footer{
+    background-color: #97BC30;
+    /*text-align: center;*/
+    /*width: auto;*/
+    height: 50%;
+}
